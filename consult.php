@@ -31,7 +31,7 @@ $Estado=$_GET["Estado"];
   </head>
 
     <!-- Navigation -->
- <body background="img/bg-callout_opt.jpg" >
+ <body background="img/bg-callout_opt.png" >
     <!-- Navigation -->
     <br>
     <br>
