@@ -2,11 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php 
-$Servicio=$_POST["Servicio"]; 
-$Estado=$_POST["Estado"]; 
+$Servicio=$_GET["Servicio"]; 
+$Estado=$_GET["Estado"]; 
 
-echo $Servicio;
-echo $Estado;
 ?>
 
   <head>
